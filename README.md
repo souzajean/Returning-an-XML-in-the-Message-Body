@@ -10,7 +10,7 @@ Returning an XML Payload do Postman in the Message Body
 
 📊 Exemplo Prático do Fluxo
 
-### Criando nosso Pacote
+### Criando nosso Iflow
 ![Fluxo](imagens/Screenshot_1.png)
 
 ### Adicionando o nome para nosso Pacote
