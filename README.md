@@ -22,22 +22,23 @@ Returning an XML Payload do Postman in the Message Body
 ### Adicionando o Content Modifier
 ![Fluxo](imagens/Screenshot_4.png)
 
-### Editando nosso Iflow
+### Renomeando nosso Content Modifier
 ![Fluxo](imagens/Screenshot_5.png)
 
-### Removendo o Sender do nosso iFlow
+### Content Modifier
+## Vamos em Message Body, que será o corpo do Messagem em XML
 ![Fluxo](imagens/Screenshot_6.png)
 
-### Removendo o Receiver do nosso iFlow
+### 
 ![Fluxo](imagens/Screenshot_7.png)
 
-### Adicionando o Filter ao nosso Iflow
+### 
 ![Fluxo](imagens/Screenshot_8.png)
 
-### Renomeando o Filter para Filter XML
+### 
 ![Fluxo](imagens/Screenshot_9.png)
 
-### Realizando o Filter 
+### R
 Nesta etapa iremos colocar o caminho do XML que queremos filtrar
 
 > Filter - Processing
