@@ -33,7 +33,7 @@ Vamos em Message Body, que será o corpo do Messagem em XML
 ![Fluxo](imagens/Screenshot_6.png)
 
 ### Retornando o xml no nosso Iflow
-Message Header - Content-Type - Clnstant - application/xml
+Message Header - Content-Type - Constant - application/xml
 ![Fluxo](imagens/Screenshot_7.png)
 
 ### Salvar e Deploy
