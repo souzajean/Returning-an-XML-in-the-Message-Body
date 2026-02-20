@@ -27,6 +27,13 @@ Returning an XML Payload do Postman in the Message Body
 
 ### Content Modifier
 Vamos em Message Body, que será o corpo do Messagem em XML
+``` 
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+   <message>${body}</message>
+</root>
+
+```
 ![Fluxo](imagens/Screenshot_6.png)
 
 ### Salvar e Deploy
@@ -36,20 +43,10 @@ Vamos em Message Body, que será o corpo do Messagem em XML
 Message Header - Content-Type - Clnstant - application/xml
 ![Fluxo](imagens/Screenshot_8.png)
 
-### 
+### etornando XML
 ![Fluxo](imagens/Screenshot_9.png)
 
 ### R
-Nesta etapa iremos colocar o caminho do XML que queremos filtrar
-
-> Filter - Processing
-
-```
-XPath Expression: /empregados/empregado[estado = 'SP']
-```
-📌 Importante:
-XPath não transforma XML, ele apenas seleciona nós.
-
 ![Fluxo](imagens/Screenshot_10.png)
 
 ### Arquivo do empregados.xml
