@@ -69,7 +69,7 @@ Adicionar a URL do Endpoint
 
 ## 📦 Exemplo prático – iFlow para baixar
 
-📦 [Download do iFlow – Package/FilterwithXML.zip](Package/FilterwithXML.zip)
+📦 [Download do iFlow – Package/Returning-an-XML-in-the-Message-Body.zip](Package/Returning-an-XML-in-the-Message-Body.zip)
 
 
 
