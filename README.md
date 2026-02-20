@@ -13,13 +13,13 @@ Returning an XML Payload do Postman in the Message Body
 ### Criando nosso Iflow
 ![Fluxo](imagens/Screenshot_1.png)
 
-### Adicionando o nome para nosso Pacote
+### Adicionando o nome para iFlow
 ![Fluxo](imagens/Screenshot_2.png)
 
-### Criando nosso Artefato do iFlow
+### Editando nosso Iflow
 ![Fluxo](imagens/Screenshot_3.png)
 
-### Adicionando o Integration Flow
+### Adicionando o Content Modifier
 ![Fluxo](imagens/Screenshot_4.png)
 
 ### Editando nosso Iflow
