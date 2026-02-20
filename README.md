@@ -59,27 +59,11 @@ Para adicionar nosso XML
 ### Endpoint
 ![Fluxo](imagens/Screenshot_14.png)
 
-### 
+### Configuração no Postman
+Adicionar a URL do Endpoint
 ![Fluxo](imagens/Screenshot_15.png)
 
-### 
-![Fluxo](imagens/Screenshot_16.png)
 
-### 
-![Fluxo](imagens/Screenshot_17.png)
-
-### Resultado com o filtro do XML
-Com todos os dados que são do estado de SP
-![Fluxo](imagens/Screenshot_18.png)
-
-### XML do resultado
-![Fluxo](imagens/Screenshot_19.png)
-
-``` Resultado do Filtro de SP
-<?xml version='1.0' encoding='UTF-8'?>
-<empregados>
-  </empregados>
-```
 
 
 
