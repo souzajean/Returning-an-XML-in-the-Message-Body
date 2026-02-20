@@ -49,13 +49,14 @@ Message Header - Content-Type - Constant - application/xml
 ![Fluxo](imagens/Screenshot_11.png)
 
 ### Adicionando o Endereço para no Iflow
+Salvar e Deploy
 ![Fluxo](imagens/Screenshot_12.png)
 
-### Selecionando Conector
+### Deployment Status
 Para adicionar nosso XML
 ![Fluxo](imagens/Screenshot_13.png)
 
-### 
+### Endpoint
 ![Fluxo](imagens/Screenshot_14.png)
 
 ### 
