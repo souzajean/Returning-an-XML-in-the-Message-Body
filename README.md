@@ -22,7 +22,7 @@ SAP BTP CPI - Retornando um XML no Corpo da Mensagem
 ### Renomeando nosso Content Modifier
 ![Fluxo](imagens/Screenshot_5.png)
 
-### Content Modifier
+### Adicionando no corpo nossa mensagem no Content Modifier
 Vamos em Message Body, que será o corpo do Messagem em XML
 ``` 
 <root>
