@@ -1,9 +1,6 @@
 # Returning-an-XML-in-the-Message-Body
 SAP BTP CPI - Retornando um XML no Corpo da Mensagem
 
-Returning an XML Payload do Postman in the Message Body 
-
-
 
 ![Capa](imagens/capa-linkedin.png)
 
@@ -28,7 +25,6 @@ Returning an XML Payload do Postman in the Message Body
 ### Content Modifier
 Vamos em Message Body, que será o corpo do Messagem em XML
 ``` 
-<?xml version='1.0' encoding='UTF-8'?>
 <root>
    <message>${body}</message>
 </root>
@@ -36,27 +32,20 @@ Vamos em Message Body, que será o corpo do Messagem em XML
 ```
 ![Fluxo](imagens/Screenshot_6.png)
 
-### Salvar e Deploy
+### Retornando o xml no nosso Iflow
+Message Header - Content-Type - Clnstant - application/xml
 ![Fluxo](imagens/Screenshot_7.png)
 
-### Retornando XML
-Message Header - Content-Type - Clnstant - application/xml
+### Salvar e Deploy
 ![Fluxo](imagens/Screenshot_8.png)
 
-### etornando XML
+### Conectando Sender no Start
 ![Fluxo](imagens/Screenshot_9.png)
 
-### R
+### Selecionar o HTTPS
 ![Fluxo](imagens/Screenshot_10.png)
 
-### Arquivo do empregados.xml
-
-``` empregados.xml
-<?xml version='1.0' encoding='UTF-8'?>
-<empregados>
-</empregados>
-
-```
+### Adicionando o Endereço para no Iflow
 ![Fluxo](imagens/Screenshot_11.png)
 
 ### Selecionando Conector
