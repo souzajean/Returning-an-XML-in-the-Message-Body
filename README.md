@@ -4,6 +4,25 @@ SAP BTP CPI - Retornando um XML no Corpo da Mensagem
 
 ![Capa](imagens/capa-linkedin.png)
 
+Este iFlow foi desenvolvido para receber uma requisição HTTP contendo um texto simples e retornar uma resposta no formato XML, já estruturada e pronta para consumo por outros sistemas.
+
+Ao receber a chamada, o iFlow:
+
+Lê o conteúdo enviado na requisição;
+
+Envolve esse conteúdo em uma estrutura XML padrão;
+
+Retorna a resposta com status 200 (OK), garantindo compatibilidade com integrações que exigem XML como formato de resposta.
+
+Fluxo de Funcionamento
+Um sistema externo envia uma requisição HTTP (ex: Postman ou outro sistema).
+
+O iFlow processa a mensagem recebida.
+
+O conteúdo é encapsulado dentro de uma estrutura XML.
+
+O XML é retornado como resposta da API.
+
 
 📊 Exemplo Prático do Fluxo
 
