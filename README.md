@@ -32,7 +32,8 @@ Vamos em Message Body, que será o corpo do Messagem em XML
 ### Salvar e Deploy
 ![Fluxo](imagens/Screenshot_7.png)
 
-### 
+### Retornando XML
+Message Header - Content-Type - Clnstant - application/xml
 ![Fluxo](imagens/Screenshot_8.png)
 
 ### 
