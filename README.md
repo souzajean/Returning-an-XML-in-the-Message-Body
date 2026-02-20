@@ -39,32 +39,32 @@ Message Header - Content-Type - Constant - application/xml
 ### Salvar e Deploy
 ![Fluxo](imagens/Screenshot_8.png)
 
-### Conectando Sender no Start
+### Salvando e Deploy as configurações realizadas
 ![Fluxo](imagens/Screenshot_9.png)
 
-### Selecionar o HTTPS
+### Conectando Sender no Start
 ![Fluxo](imagens/Screenshot_10.png)
 
-### Adicionando o Endereço para no Iflow
+### Selecionar o HTTPS
 ![Fluxo](imagens/Screenshot_11.png)
 
-### Selecionando Conector
+### Adicionando o Endereço para no Iflow
 ![Fluxo](imagens/Screenshot_12.png)
 
-### Clicar no icone de iniciar Simulação
+### Selecionando Conector
 Para adicionar nosso XML
 ![Fluxo](imagens/Screenshot_13.png)
 
-### Adicionando o conteúdo do empregados.xml
+### 
 ![Fluxo](imagens/Screenshot_14.png)
 
-### Clicar no Conector e adicionar o End Simulação
+### 
 ![Fluxo](imagens/Screenshot_15.png)
 
-### Clicar para iniciar nossos teste de simulação
+### 
 ![Fluxo](imagens/Screenshot_16.png)
 
-### Clicar no Envelope para ver o resultado
+### 
 ![Fluxo](imagens/Screenshot_17.png)
 
 ### Resultado com o filtro do XML
